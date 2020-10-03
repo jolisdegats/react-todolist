@@ -5,7 +5,7 @@
 </p>
 <br/>
 <br/>
-<h1>Echoes MVP project (React/Node)</h1>
+<h1>ToDoList (React)</h1>
 <br/>
 <h3>COMING SOON...</h3>
 
